@@ -31,7 +31,7 @@ Tracked: Total Revenue, Active Products, Out-of-Stock count, Discount Items
 
 
 Key KPIs
-MetricValueTotal Revenue₹12.23 BillionActive Products4,000+ SKUsOut-of-Stock Products453 (12% of catalog)Discounted Items29,000+
+MetricValueTotal Revenue₹12.23 BillionActive Products3,732 SKUsOut-of-Stock Products453 (12% of catalog)Discounted Items29,000+
 
 Key Findings
 
