@@ -1,4 +1,4 @@
-Zepto Product Analytics Dashboard — SQL + Power BI
+## Zepto Product Analytics Dashboard — SQL + Power BI
 Business Problem
 Zepto leadership lacked visibility into which product categories drove the most revenue, how stock-outs were impacting sales, and whether their discount strategy was actually profitable.
 Tools Used
@@ -58,4 +58,4 @@ Open Zepto_Dashboard.pbix in Power BI Desktop
 Refresh the data source connection
 
 GitHub Repo
-github.com/sharunsha/Zepto-Product-Analytics-Dashboard-
+(https://github.com/sharunsha/Zepto-Product-Analytics-Dashboard-SQL-Power-BI)
